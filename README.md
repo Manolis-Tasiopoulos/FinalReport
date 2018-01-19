@@ -145,6 +145,15 @@ Game Over
 Win Screen
 In Game Sounds
 ```
-## ΣΥΜΠΕΡΑΣΜΑΤΑ
+## ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ
 
+![mainmenu](mainmenu.png)
+![help](help.png)
+![Level1](Level1.png)
+![LevelChange](LevelChange.png)
+![Level2](Level2.png)
+![gameover](gameover.png)
+
+## ΣΥΜΠΕΡΑΣΜΑΤΑ
+Με την ολοκληρωση του τετρατου παραδοτεου ολοκληρωνεται και η εργασια στα πολυμεσα του Ε εξαμηνου.Ολη αυτη η διαδικασια ηταν μια πολυ καλη ευκερεια προκειμενου να εξοικηωθουμε με εργαλεια οπως ειναι η βηβλιοθηκη phaser αλλα και να επεκτεινουμε τις γνωσεις μας σε οτι αφορα το gaming development.
 
